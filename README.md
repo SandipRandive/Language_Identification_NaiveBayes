@@ -78,4 +78,13 @@ The model learns from a labeled dataset containing sample sentences in various l
 
 ## 📂 Folder Structure
 
+---
+
+## 💻 Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/SandipRandive/Language_Identification_NaiveBayes.git
+   cd Language_Identification_NaiveBayes
+
 
