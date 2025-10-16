@@ -1,5 +1,3 @@
-# Language_Identification_NaiveBayes
-A machine learning project for identifying text language using Naive Bayes.
 # 🧠 Language Identification using Naive Bayes
 
 This project focuses on building a **Machine Learning model** that can automatically **detect the language** of a given text input using the **Multinomial Naive Bayes algorithm**.  
@@ -76,9 +74,6 @@ The model learns from a labeled dataset containing sample sentences in various l
 
 ---
 
-## 📂 Folder Structure
-
----
 
 ## 💻 Installation & Setup
 
