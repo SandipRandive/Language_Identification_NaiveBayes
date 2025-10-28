@@ -82,17 +82,6 @@ The model learns from a labeled dataset containing sample sentences in various l
    git clone https://github.com/SandipRandive/Language_Identification_NaiveBayes.git
    cd Language_Identification_NaiveBayes
 
-Future Enhancements
-
-Deploy as a web app using Flask
-
-Add deep learning models (LSTM)
-
-Support for more languages
-
 👨‍💻 Author
-
 Sandip Randive
-📧 sandiprandive@example.com
-
 GitHub: SandipRandive
